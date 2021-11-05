@@ -3,6 +3,8 @@
 - 🔭I’m currently working on DeepLearning   
 - 🌱 I’m currently learning Robotic Operating System  
 - 😄My about ; My name is yasin.I am studying at Kocaeli University.I like to spend time in front of the computer.Dealing with electronics is among my hobbies that make me happy.It's an area where I don't want to take responsibility just because I'm dealing with it as a hobby.I would be happy if i have the repository to help you.   
+   
+   
 🌟 Teknofest 🌟  
 - 2021    Tourism Technologies   13.  
 - 2021    Farming technologies   17.  
