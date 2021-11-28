@@ -14,5 +14,4 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@yasinsahin) 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=yasinsahin0&show_icons=true&theme=radical)    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinsahin0&layout=compact)]
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yasinsahin0)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinsahin0&layout=compact)
