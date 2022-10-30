@@ -8,7 +8,8 @@
 🌟 Teknofest 🌟  
 - 2021    Tourism Technologies             7.   
 - 2021    Farming Technologies             13.   
-- 2022    Digital Technologies in industry  
+- 2022    Digital Technologies in industry  10.
+- 2022    Combat İHA 7. - En özgün yazılım ödülü
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/yasinsahin0) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/0yasin_sahin0) 
